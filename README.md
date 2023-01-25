@@ -7,6 +7,8 @@
 - make sure you're on python version >= `3.10`
 - bot uses the most amount of keys possible to reduce load, if you provide enough keys you would be able to reduce the time every 2 revolutions.
 - for every key, you can index nearly 15k users.
+- in `config.json`, the key `users` means the user keys.
+
 
 # How to run:
 ## Run these commands in the terminal of your workspace
