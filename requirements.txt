@@ -1,0 +1,4 @@
+tweepy
+discord.py
+python-dateutil
+async_lru
