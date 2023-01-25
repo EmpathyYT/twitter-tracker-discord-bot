@@ -1,4 +1,5 @@
 # Be aware of the following notes:
+- this discord bot tracks when the users in `config.json` follow anyone, to add users, add them to `twitter_user_ids` in `config.json`
 - ***DO NOT*** update the config while the bot is running
 - Commented out the Latest Tweet part `(main.py)`, since it requires elevated access
 - Changed the `discord_channel_id` attribute in `config.json` from type `STR` to type `INT`, since this is what the method expects
