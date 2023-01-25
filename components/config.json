@@ -1,0 +1,14 @@
+    {
+        "users": [
+            {
+                "twitter_api_key": "",
+                "twitter_api_secret": "",
+                "twitter_access_token": "",
+                "twitter_access_token_secret": "",
+            }
+        ],
+
+    "twitter_account_ids": [""], 
+    "discord_token": "",
+    "discord_channel_id": 1
+}
